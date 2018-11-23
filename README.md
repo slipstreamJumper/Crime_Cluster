@@ -13,8 +13,16 @@ The second part of the project takes the crime data from the API and uses multip
 
 This project requires multiple packages to work correctly: 
 
+sklearn
+geopy
+folium
+hdbscan
+numpy
+pandas
+matplotlib
+
 
 
 ## Copyright
 
-Copyright 2017 onwards, fast.ai, Inc. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project's files except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
+Copyright 2017 onwards,...
